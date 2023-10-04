@@ -14,7 +14,7 @@ export default async function handler(req, res) {
                 estado: true
             }
         })
-        
-        res.status(200).json(ordenActualizada)
+
+        res.status(200).json(ordenActualizada) // retornando orden
     }
 }
