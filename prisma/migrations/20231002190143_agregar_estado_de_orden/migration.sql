@@ -1,2 +1,2 @@
 -- AlterTable
-ALTER TABLE `orden` ADD COLUMN `estado` BOOLEAN NOT NULL DEFAULT false;
+ALTER TABLE `Orden` ADD COLUMN `estado` BOOLEAN NOT NULL DEFAULT false;
